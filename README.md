@@ -29,7 +29,7 @@ Final Painting:
 
 1. Describe your project.
 
-   - For my Unit 1 Asphalt project, I used java to paint a block of cheese. Consisting of multiple subclasses, my code efficiently paints the block of cheese section by section, using methods and for-loops to help simplify the painting process. 
+   - For my Unit 1 Asphalt project, I used java to paint a block of cheese. Consisting of multiple subclasses, my code efficiently paints the block of cheese section by section, using methods and for-loops to help simplify the painting process. I painted cheese because it is one of me and my little sister's favorite foods. We like eating cheese pizza, cheese fries, cheeseburgers, and so on. 
 
 2. What are two things about your project that you are proud of?
 
